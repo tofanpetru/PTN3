@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "..\Iterator\Iterator.csproj", "{5426E823-CFC4-40E9-ABB9-4D4C183BED66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "..\Memento\Memento.csproj", "{8832D47F-118D-4BB8-83BB-9BE6C6649B00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5426E823-CFC4-40E9-ABB9-4D4C183BED66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5426E823-CFC4-40E9-ABB9-4D4C183BED66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5426E823-CFC4-40E9-ABB9-4D4C183BED66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8832D47F-118D-4BB8-83BB-9BE6C6649B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8832D47F-118D-4BB8-83BB-9BE6C6649B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8832D47F-118D-4BB8-83BB-9BE6C6649B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8832D47F-118D-4BB8-83BB-9BE6C6649B00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
